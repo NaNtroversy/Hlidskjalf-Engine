@@ -1,0 +1,5 @@
+C:/Dev/HlidskjalfEngine/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Dev/HlidskjalfEngine/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Dev/HlidskjalfEngine/out/build/x64-Debug/HlidskjalfEngine/CMakeFiles/HlidskjalfEngine.dir
+C:/Dev/HlidskjalfEngine/out/build/x64-Debug/HlidskjalfEngine/CMakeFiles/edit_cache.dir
+C:/Dev/HlidskjalfEngine/out/build/x64-Debug/HlidskjalfEngine/CMakeFiles/rebuild_cache.dir
