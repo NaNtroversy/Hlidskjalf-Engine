@@ -6,9 +6,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Hlidskjalf.h" />
+    <ClCompile Include="Source\Hlidskjalf.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hlidskjalf.cpp" />
+    <ClInclude Include="Source\Hlidskjalf.h" />
+    <ClInclude Include="Source\Core.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>

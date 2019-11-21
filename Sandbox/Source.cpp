@@ -1,6 +1,4 @@
-namespace HLI {
-	__declspec(dllimport) void print();
-}
+#include <Hlidskjalf.h>
 
 int main() {
 	HLI::print();

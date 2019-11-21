@@ -3,6 +3,6 @@
 
 namespace HLI {
 	void print() {
-		printf("Hello Hlidskjalf");
+		printf("Hello Hlidskjalf average to good");
 	}
 }
